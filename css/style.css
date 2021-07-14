@@ -1,0 +1,27 @@
+*{
+    box-sizing: content-box;
+    margin: 0;
+    padding-left: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+}
+
+.global-width{
+    width: 100%;
+}
+
+.header{
+    background-color: antiquewhite;
+    height: 70px;
+}
+
+.footer{
+    background-color: aquamarine;
+    height: 60px;
+}
